@@ -1,1 +1,7 @@
 # UnityGitIgnore
+
+something
+
+H
+
+asdf
